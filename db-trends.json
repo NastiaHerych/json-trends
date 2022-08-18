@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "image": "images/banner-img3.jpg",
+      "title": "Дощовик прозорий Warning",
+      "price": "800грн"
+    },
+    {
+      "id": 2,
+      "image": "images/trend-img2.jpg",
+      "title": "Дощовик прозорий Warning",
+      "price": "800грн"
+    },
+    {
+      "id": 3,
+      "image": "images/trend-img3.jpg",
+      "title": "Дощовик прозорий Warning",
+      "price": "800грн"
+    },
+    {
+      "id": 4,
+      "image": "images//banner-img6.jpg",
+      "title": "Дощовик прозорий Warning",
+      "price": "800грн"
+    },
+    {
+      "id": 5,
+      "image": "images/trend-img5.jpg",
+      "title": "Дощовик прозорий Warning",
+      "price": "800грн"
+    },
+    {
+      "id": 6,
+      "image": "images/trend-img6.jpg",
+      "title": "Дощовик прозорий Warning",
+      "price": "800грн"
+    }
+]
